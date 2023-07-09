@@ -1,5 +1,9 @@
 ## Udacity Data Science Blog Project
 
+#### Blog Post Url
+
+[blog](https://renshou753.github.io/hexo_en_blog/2023/07/08/udacity-data-science-blog/)
+
 #### Key Steps for the Project
 
 Feel free to be creative with your solutions, but do follow the CRISP-DM process in finding your solutions.
@@ -53,3 +57,5 @@ readme.md: general intro for this project
 #### Summary of the findings
 
 For this project I have analyzed what are the web frameworks the developers are currently working with, what frameworks the developers wish to work with in the future; Also I have tried to analyze the tools/programming languages the developers desired in their toolset.
+
+Our analysis of the Stack Overflow survey from 2018 to 2022 provided valuable insights into the developer community's preferences and aspirations. We observed shifts in popularity, desired programming languages, and preferred tools and technologies. The web development landscape is constantly evolving, and it is essential for developers to stay informed about these trends to make informed decisions and keep their skillsets up to date.
